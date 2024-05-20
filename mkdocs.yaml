@@ -4,6 +4,3 @@ site_url: http://greenglass-project.org
 theme:
   name: material
   
-python:
-  install:
-    - package :
