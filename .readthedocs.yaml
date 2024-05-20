@@ -13,4 +13,4 @@ mkdocs:
 
 python:
   install:
-    - package : mkdocs-material
+  - requirements: requirements.txt
