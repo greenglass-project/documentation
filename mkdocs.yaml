@@ -1,4 +1,9 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Greenglass Project
 site_url: http://greenglass-project.org
 theme:
   name: material
+  
+python:
+  install:
+    - package :
